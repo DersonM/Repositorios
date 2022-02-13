@@ -134,8 +134,6 @@ margin-top: 1rem;
 .footer .social-field a {
     text-decoration: none;
     color: var(--branco-azure);
-    
-
 }
 .footer .social-field.twitter {
     background: linear-gradient(to right, #56a7f2, #468aca)
